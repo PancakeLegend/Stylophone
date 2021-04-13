@@ -5,5 +5,5 @@ Head over to the Wiki for the [Assembly Guide](https://github.com/PancakeLegend/
 
 
 [![CC-BY-NC-SA](https://github.com/PancakeLegend/Stylophone/blob/main/Wiki%20Resources/CC-BY-NC-SA.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-//![CC-BY-NC-SA](https://github.com/PancakeLegend/Stylophone/blob/main/Wiki%20Resources/CC-BY-NC-SA.png)
+
 This project was adapted from a circuit by Alex Kov, which was based on a 555 Astable Oscillator example.
