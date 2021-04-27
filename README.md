@@ -1,7 +1,7 @@
 # Stylophone
 A basic through-hole soldering project for #operationsnowball
 
-Head over to the Wiki for the [Assembly Guide](https://github.com/PancakeLegend/Stylophone/wiki).
+Head over to the Wiki for more information and the [Assembly Guide](https://github.com/PancakeLegend/Stylophone/wiki).
 
 ***
 
